@@ -35,6 +35,7 @@ body{
 .containt{
     margin-top: 200px;
 }
+
 /*Section 2*/
 .sectionTwo{
     margin-top: 128px;
@@ -56,6 +57,9 @@ font-weight: 700;
     background-color: var(--green-Color);
     padding: 10px;
 }
+/*End section 2*/
+
+
 /*section Three*/
 .sectionThree{
     margin-top: 80px;
@@ -66,6 +70,9 @@ font-weight: 700;
     padding: 50px;
     text-align: center;
 }
+/*End section Three*/
+
+
 /*section Four*/
 
 .sectionFour{
@@ -90,6 +97,7 @@ font-weight: 700;
 #hr{
     margin-top: 50px;
 }
+/*End section Four*/
 
 /*section Five*/
 
@@ -114,4 +122,7 @@ font-weight: 700;
 
 .sectionFive{
     width: 65%;
+    margin-bottom: 200px;
 }
+
+/*End section Five*/
